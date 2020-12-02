@@ -1,1 +1,1 @@
-# MLprojects
+# weekly-ML
